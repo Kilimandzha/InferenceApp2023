@@ -1,0 +1,4 @@
+gradio
+pyyaml~=6.0
+pandas
+requests
